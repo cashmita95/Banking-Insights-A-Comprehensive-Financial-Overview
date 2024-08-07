@@ -8,7 +8,7 @@
 
 ## Project Description/Problem Statement
 
-This project involves creating a series of dashboards to provide insights into key performance indicators (KPIs) in the finance and banking industry. These dashboards focus on various aspects such as Loan Distribution, Loan Portfolio Size, Repayment Trends, and Customer Demographics. The primary goal is to enable stakeholders to make informed decisions based on visualized data.
+This project involves creating a series of dashboards to provide insights into key performance indicators (KPIs) in the finance and banking industry. These dashboards focus on various aspects such as Loan Distribution, Loan Portfolio Size, Repayment Trends, and Customer Demographics.
 
 The data sets used in this project include Banking basic details, Loan details, and Loan, which provide comprehensive information about the banking operations, customer demographics, and loan specifics.
 
