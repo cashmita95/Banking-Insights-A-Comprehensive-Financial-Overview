@@ -12,6 +12,8 @@ This project involves creating a series of dashboards to provide insights into k
 
 The data sets used in this project include Banking basic details, Loan details, and Loan, which provide comprehensive information about the banking operations, customer demographics, and loan specifics.
 
+https://github.com/user-attachments/assets/9a12c6be-808e-485f-bc94-b393bc1f1927
+
 ## Key Performance Indicators
 
 ### Loan Distribution
